@@ -32,7 +32,7 @@ Stack: *React, TypeScript, Node.js, AI/ML*
 ---
 
 ### 💸 **Hamro Patro – Remittance Platform**  
-Developed a **secure money transfer system (US → Nepal)** that reduced costs by **60%** and handled **100K+ users daily**.  
+Developed a **secure money transfer system (US → Nepal)** that reduced costs and handled **100K+ users daily**.  
 Stack: *Java, Spring Boot, AWS, PostgreSQL, React*  
 🔗 [Read More](https://www.yougalbimali.tech/)  
 

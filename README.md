@@ -41,7 +41,7 @@ Stack: *Java, Spring Boot, AWS, PostgreSQL, React*
 ## 💼 Experience  
 
 - 🟣 **Full-Stack Developer (Co-op)** @ *VerifyWise – AI Governance*  
-  *Aug 2025 – Present | Toronto (Remote)*  
+  *Aug 2025 – Dec | Toronto (Remote)*  
 
 - 🟠 **Software Engineer** @ *Hamro Patro, Inc.*  
   *Aug 2021 – Mar 2024 | Kathmandu*  
